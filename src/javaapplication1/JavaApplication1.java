@@ -33,5 +33,6 @@ public class JavaApplication1 {
         System.out.println("YOUR NAME IS: "+ FirstName + " " + MidName + " " + LastName);  
         System.out.println("Your Birthdate is: " + Day + "/" + Month + "/" + Year);
         System.out.println("Your Age is: " + Age);
+        System.out.println("lol");
     }
 }
